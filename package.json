@@ -1,0 +1,20 @@
+{
+  "name": "TinyApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebeccabenedict/TinyApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rebeccabenedict/TinyApp/issues"
+  },
+  "homepage": "https://github.com/Rebeccabenedict/TinyApp#readme"
+}
